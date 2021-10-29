@@ -1,0 +1,6 @@
+{
+    "auth-settings": {
+        "AuthCookieName": "localAuth",
+        "CsrfTokenName": "X-CSRF-Token"
+    }
+}

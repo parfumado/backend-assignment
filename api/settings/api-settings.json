@@ -1,0 +1,16 @@
+{
+  "api-settings": {
+    "version": ""
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "useMockFactories": "false",
+  "AllowedHosts": "*",
+  "AllowedOrigins": "http://localhost:3000",
+  "Urls": "http://*:5000;https://*:5001"
+}

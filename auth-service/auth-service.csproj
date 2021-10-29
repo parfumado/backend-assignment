@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\data-adapters\data-adapters.csproj" />
+    <ProjectReference Include="..\utility\utility.csproj" />
+    <ProjectReference Include="..\api-base\api-base.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.ApiAuthorization.IdentityServer" Version="5.0.10" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.Facebook" Version="5.0.9" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="5.0.0" />
+    <None Include="secrets/auth-secrets.json" CopyToOutputDirectory="Always" />
+    <None Include="settings/auth-settings.json" CopyToOutputDirectory="Always" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>AuthService</RootNamespace>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

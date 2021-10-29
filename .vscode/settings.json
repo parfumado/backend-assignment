@@ -1,0 +1,14 @@
+{
+    "omnisharp.enableImportCompletion": true,
+    "omnisharp.enableEditorConfigSupport": true,
+    "omnisharp.organizeImportsOnFormat": true,
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 160,
+    "editor.wrappingStrategy": "advanced",
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "files.autoSaveDelay": 2000,
+    "[csharp]": {
+        "editor.wordWrapColumn": 160
+    }
+}

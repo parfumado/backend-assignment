@@ -30,7 +30,7 @@ The expected outcome of this assignment should be at least compiling code, that 
 
 1 - Fork the repositories privately
 2 - Write the code
-3 - Share with git hub organization "parfumado"
+3 - Share with git hub team "parfumado/dev-team"
 4 - Notify us via e-mail describing what you delivered.
 
 Good luck and success! Will try to get back to you as soon as possible.

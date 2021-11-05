@@ -17,20 +17,20 @@ There is a mocked persistence layer, but you're free to implement and inject a p
 
 All of the below should be focused on functionality and not quality of the UI (of course, we won't complain if it's pretty) if you're also delivering the frontend project.
 
-1 - Sign-in via username/password
-2 - Sign-in via token (simulating a reset password link)
-3 - Update user details (and/or password)
-4 - Get user info (to show user on home page)
-5 - Sign-up
+1 - Sign-in via username/password\
+2 - Sign-in via token (simulating a reset password link)\
+3 - Update user details (and/or password)\
+4 - Get user info (to show user on home page)\
+5 - Sign-up\
 6 - Sign out
 
 The expected outcome of this assignment should be at least compiling code, that can be tested (either via postman or via the frontend assignment). A live version, acessible through a secure url is a big plus.
 
 ## How to deliver.
 
-1 - Fork the repositories privately (Otherwise other applicants can see your solution)
-2 - Write the code
-3 - Share it with github handle "fabio-s-franco"
+1 - Fork the repositories privately (Otherwise other applicants can see your solution)\
+2 - Write the code\
+3 - Share it with github handle "fabio-s-franco"\
 4 - Notify us via e-mail describing what you delivered.
 
 Good luck and success! Will try to get back to you as soon as possible.
@@ -51,19 +51,6 @@ Good luck and success! Will try to get back to you as soon as possible.
 
 ## Develop, Build and Run
 All commands below assume you're on the root folder of the project.
-
-### *Initialize settings as environment variables*
-
-> Powershell
-```
-setx PLATFORM_api-settings__StorefrontToken=12345
-${Env:PLATFORM_api-settings__StorefrontToken}="12345"
-```
-
-> Bash
-```
-export PLATFORM_api-settings__StorefrontToken="%!sv4JBM6%4w7Ert"
-```
 
 ### Add a new Web API project (Web Server)
 

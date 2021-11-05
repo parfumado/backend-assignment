@@ -1,15 +1,15 @@
 # Backend / Fullstack take home assignment Parfumado
 
-This take home assignment has been ellaborated as a take home assignment during the interview process of a Full-Stack or Backend position. If you're applying for a full stack position, please refer to the repo in: https://github.com/parfumado/frontend-assignment
+This is a take home assignment that has been ellaborated for the interview process of a Full-Stack or Backend position at Parfumado. If you're applying for a full stack position, please also complete the front-end assignment available in: https://github.com/parfumado/frontend-assignment
 
-For backend assignment, don't forget to attach an example postman collection to your application (please document it so we can find it).
+Don't forget to attach an example postman collection to your application (please document it so we can find it).
 
 ## Goal of the assignment
- This assignment will evaluate your general knowledge on implementing a simple username and password login mechanism. But making it run is not the most important aspect of this assignment. This assignment is meant to evaluate how do you think and work around problems and solutions. Please comment in the code your intentions and choices. This will not only help us understand what you're trying to do, but it will also help you keep track of what you want to demonstrate.
+This assignment will evaluate your general knowledge on implementing a simple username and password login mechanism. But making it run is not the most important aspect of this assignment. This assignment is meant to evaluate how do you think and work around problems and solutions. Please comment in the code your intentions and choices. This will not only help us understand what you're trying to do, but it will also help you keep track of what you want to demonstrate.
 
 Most of the boiler-plate code is already setup, although you will find boiler-plate related TODO's. Please ensure you implement all project's TODO commented sections.
 
-The project is split in pseudo microservices which are automatically loaded into one monolythic runtime application. You should consider best practices when implementing. And also refactor portions that you identify that do not adopt some of these best practices.
+The project is split in pseudo microservices which are automatically loaded into one monolythic runtime application. You should consider best practices when implementing. And also refactor portions that you identify that do not adopt some of these best practices (please document refactors with comments on the code).
 
 There is a mocked persistence layer, but you're free to implement and inject a persistence layer that will write to a real database, or a file, if you prefer. As long as you provide instructions on how to use it, it's fine.
 
@@ -28,9 +28,9 @@ The expected outcome of this assignment should be at least compiling code, that 
 
 ## How to deliver.
 
-1 - Fork the repositories privately
+1 - Fork the repositories privately (Otherwise other applicants can see your solution)
 2 - Write the code
-3 - Share with git hub team "parfumado/dev-team"
+3 - Share it with github handle "fabio-s-franco"
 4 - Notify us via e-mail describing what you delivered.
 
 Good luck and success! Will try to get back to you as soon as possible.
